@@ -2,7 +2,7 @@
 
 This is a stub mirror. The full source code for this commit is at:
 
-https://git.bitcicle.com/andy/zephyr-template/src/commit/c5e447b78efe6757760a99e0d1a2121053ec5c82
+https://git.bitcicle.com/andy/zephyr-template/src/commit/db16ffa4a013697db67dd2f5c4e6d5db6daea8fd
 
 To browse or clone the full repository, visit:
 
