@@ -1,0 +1,3 @@
+[submodule "env/zephyr_docker"]
+	path = env/zephyr_docker
+	url = git@github.com:zephyrproject-rtos/docker-image.git

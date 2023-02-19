@@ -1,0 +1,4 @@
+[manifest]
+path = /workdir/firmware
+[zephyr]
+base = /workdir/os/zephyr
