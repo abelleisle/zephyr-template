@@ -1,9 +1,15 @@
 # zephyr-template
 
-This is a stub mirror. The full source code for this commit is at:
+This is a stub mirror. The source code lives on Forgejo.
 
-https://git.bitcicle.com/andy/zephyr-template/src/commit/db16ffa4a013697db67dd2f5c4e6d5db6daea8fd
+**Repository:** https://git.bitcicle.com/andy/zephyr-template
 
-To browse or clone the full repository, visit:
+## Branches
 
-https://git.bitcicle.com/andy/zephyr-template
+| Branch | Commit | Link |
+|--------|--------|------|
+| `master` | `db16ffa4a013` | [view](https://git.bitcicle.com/andy/zephyr-template/src/commit/db16ffa4a013697db67dd2f5c4e6d5db6daea8fd) |
+
+---
+
+*Last updated: 2026-03-01 18:43:40 UTC*
